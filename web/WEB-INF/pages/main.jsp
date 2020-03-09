@@ -10,9 +10,9 @@
  <h1 class="warning_label">${message}</h1>
 
  <h2>
-  <a href="/sales_app/login/portal" class="text-warning">Login</a>
+  <a href="/login/portal" class="text-warning">Login</a>
  </h2>
  <h2>
-  <a href="/sales_app/registration/portal" class="text-warning">Register</a>
+  <a href="/registration/portal" class="text-warning">Register</a>
  </h2>
 </section>
